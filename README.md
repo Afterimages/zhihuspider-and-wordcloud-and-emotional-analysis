@@ -3,7 +3,8 @@
 
 孟晚舟回国话题知乎数据分析
 一、 时间线梳理：
- 
+ ![image](https://github.com/Afterimages/zhihuspider_plus_wordcloud_plus_emotional_analysis/blob/325d91a991bb00e10e135e54e27ebd7f4df43f20/Snipaste_2021-11-22_14-41-04_LI.jpg)
+ ![image]()
 二、起因、经过结果：
 放视频
 三、针对孟晚舟回国事件在知乎话题中的时间热度、内容选取、标题等进行数据分析
